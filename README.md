@@ -8,8 +8,6 @@
 [![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) 
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
-📌 This repository is archived with Zenodo and can be cited using the DOI above.
-
 > A curated list of resources for precision agriculture, variable rate technology, spatial soil mapping, machine guidance, and site-specific crop management.
 
 Precision agriculture leverages spatial data, sensor networks, and targeted application technology to optimize field-level management, maximize input efficiency, and minimize environmental impact. This list is intended for precision agronomists, GIS specialists, agricultural engineers, and smart farming developers.
